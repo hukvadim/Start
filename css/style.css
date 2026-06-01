@@ -11,18 +11,18 @@ body {
 	margin-bottom: 60px;
 }
 
-img {
+.image {
 	padding: 98px 0 36px;
 }
 
-h1 {
+.title {
 	font-weight: 800;
 	font-size: 95px;
 	color: #6b68ec;
 	margin-bottom: 26px;
 }
 
-p {
+.text {
 	font-weight: 600;
 	font-size: 22px;
 	color: #484855;
