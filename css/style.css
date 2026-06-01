@@ -1,1 +1,30 @@
-body {}
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #fbfdff;
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	margin-bottom: 60px;
+}
+
+img {
+	padding: 98px 0 36px;
+}
+
+h1 {
+	font-weight: 800;
+	font-size: 95px;
+	color: #6b68ec;
+	margin-bottom: 26px;
+}
+
+p {
+	font-weight: 600;
+	font-size: 22px;
+	color: #484855;
+	line-height: 40px;
+}
