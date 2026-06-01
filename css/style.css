@@ -49,3 +49,14 @@ a {
 .btn:hover {
 	background: #6b68ec;
 }
+@media (max-width: 500px) {
+	.btn {
+		width: 360px;
+	}
+}
+
+@media (max-width: 380px) {
+	.btn {
+		width: 100%;
+	}
+}
